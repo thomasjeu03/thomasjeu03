@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thomasjeu03
+- 👋 Hi, I’m Thomas Jeu, a 18 years old guy
 - 👀 I’m interested in web developpement
 - 🌱 I’m currently learning PHP and some JS's framework
 - 📫 How to reach me : https://thomasjeu.fr
