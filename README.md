@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Jeu, a 18 years old guy
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently learning PHP and some JS's framework
+- 🌱 I’m currently learning Vuejs and some web frameworks
 - 📫 How to reach me : https://thomasjeu.fr
 
 <!---
