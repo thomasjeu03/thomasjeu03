@@ -1,5 +1,1 @@
-# 👋 Hi, I’m Thomas Jeu, a 21 years old guy
-## Front-End developer ✦ UX-UI Designer ✦ Web App Developer ✦ Awwwards young jury 2024
-- Currently building apps with NextJS / ReactJS / Vercel and some web frameworks
-- My portfolio : [thomasjeu.fr](https://thomasjeu.fr)
-- How to reach me : [My Bento here](https://bento.me/thomasjeu)
+[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/66c741a80028bfb0d134/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
