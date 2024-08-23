@@ -32,7 +32,7 @@ I am available for freelance work and open to a wide range of projects, includin
 ### 📫 Get in Touch
 Feel free to reach out for collaborations, freelance projects, or just to say hi!
 - **Email:** [jeuthomas03@gmail.com](mailto:jeuthomas03@gmail.com)
-- **LinkedIn:** [linkedin.com/in/thomasjeu](https://www.linkedin.com/in/thomasjeuhttps://www.linkedin.com/in/thomasjeu/)
+- **LinkedIn:** [linkedin.com/in/thomasjeu](https://www.linkedin.com/in/thomasjeu/)
 - **X /Twitter:** [@ThomasJeu39](https://x.com/ThomasJeu39)
 
 ### 🧠 Open to Collaborations
