@@ -7,6 +7,7 @@ I'm **Thomas Jeu**, a passionate **Creative Developer** with a strong focus on *
 ### 🛠️ My Skill Set
 - **Front-end Development:** React.js, Next.js, JavaScript, HTML5, CSS3, SASS, Tailwind CSS
 - **UX/UI Design:** Figma, Prototyping, Wireframing
+- **iOS Development:** SwiftUI, XCode, Apple ecosystem
 - **Tools & Platforms:** Vercel, Git, GitHub, Webpack, ESLint, Prettier, Prisma
 
 ### 🌍 Portfolio
@@ -21,6 +22,7 @@ Check out my latest projects and designs on my portfolio:
 I am available for freelance work and open to a wide range of projects, including:
 - **Web Applications**
 - **SaaS Platforms**
+- **iOS Applications**
 - **Landing Pages**
 - **UX/UI Design**
 - **Web Design**
