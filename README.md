@@ -1,4 +1,4 @@
-# Thomas Jeu - Freelance Creative Developer ✦ UX-UI Designer ✦ Web App Developer
+# Thomas Jeu - Creative & Full-stack Software Engineer ✦ iOS Developer
 
 ### Welcome to my GitHub! 👋
 
